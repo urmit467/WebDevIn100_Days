@@ -18,10 +18,31 @@ Welcome to **100_days_100_web_project** – a challenge-based repository to **le
 |-----|--------------|-------------|-------------|
 | DAY-1 | TODOLIST | [TODOLIST]() | Task manager app |
 | DAY-2 | DIGITAL CLOCK | [DIGITAL CLOCK]() | Real-time digital clock |
+| Day 3  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| ...    | ...                 | ...            | ...                         |
+| Day 100+ | **Coming Soon**  | 🚧             | 🚧                           |
 
-| DAY-100+ | ... | ... | ... |
+> 📌 Projects will be updated daily. Bookmark this repo and check back often!
 
 ---
+## 🎯 Goals
+
+- 💡 Improve HTML, CSS & JavaScript skills
+- 🧠 Develop problem-solving ability through UI/UX logic
+- 🛠 Build a strong developer portfolio
+- 🌐 Publish projects on GitHub Pages or Vercel
+- 🧩 Collaborate and contribute as a community
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Role |
+|------------|------|
+| 💻 HTML     | Page Structure |
+| 🎨 CSS      | Styling & Layout |
+| ⚙️ JavaScript | Logic & Interactions |
+
 
 ## 📢 Announcements
 
