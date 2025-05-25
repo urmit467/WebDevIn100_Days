@@ -1,4 +1,4 @@
-# 100_days_100_web_project 🚀
+# WebDevIn100_Days🚀
 
 Welcome to **100_days_100_web_project** – a challenge-based repository to **learn** and **practice** web development by building **100+ mini projects** using **HTML, CSS, and JavaScript**. This journey goes from **basic** to **intermediate** level with fun and interactive web applications!
 
@@ -60,4 +60,4 @@ To contribute or run this repository locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/100_days_100_web_project.git
+git clone https://github.com/your-username/WebDevIn100Days.git
