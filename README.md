@@ -8,7 +8,7 @@ Welcome to **100_days_100_web_project** – a challenge-based repository to **le
 
 ## 🌐 Live Website
 👉 Explore all the projects here:  
-🔗 [Visit Live Demo](https://100-days-100-web-project.vercel.app/)
+🔗 [Visit Live Demo](https://github.com/ruchikakengal)
 
 
 
