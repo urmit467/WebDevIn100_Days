@@ -47,18 +47,39 @@ Welcome to **100_days_100_web_project** – a challenge-based repository to **le
 | ⚙️ JavaScript | Logic & Interactions |
 
 
-## 📢 Announcements
-
-Join our community of developers, contribute your projects, and showcase your skills to the world!
-
-✨ New: Join our **[Discord Channel](https://discord.gg/your-community-link)** to collaborate, ask doubts, and learn with peers.
-
----
-
 ## 🛠 Getting Started
 
 To contribute or run this repository locally:
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/your-username/WebDevIn100Days.git
+
+ <h3>Thank you for contributing to our repository</h3>
+<a href="https://github.com/ruchikakengal/WebDevIn100_Days/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=ruchikakengal/WebDevIn100_Days"/>
+
+
+## Show Your Support
+
+If you like this project, please consider giving it a ⭐️ on [GitHub](https://github.com/ruchikakengal/WebDevIn100_Days).
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+## Stargazers ❤️
+<div align='left'>
+
+[![Stargazers repo roster for @rutikakengal/FoodFusion-Online-Food-Ordering-Web](https://reporoster.com/stars/dark/ruchikakengal/WebDevIn100_Days)](https://github.com/ruchikakengal/WebDevIn100_Days/stargazers)
+
+
+</div>
+
+## Forkers ❤️
+
+[![Forkers repo roster for @rutikakengal/FoodFusion-Online-Food-Ordering-Web](https://reporoster.com/forks/dark/ruchikakengal/WebDevIn100_Days)](https://github.com/ruchikakengal/WebDevIn100_Days/network/members)
+
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
