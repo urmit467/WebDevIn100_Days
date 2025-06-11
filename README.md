@@ -71,14 +71,14 @@ If you like this project, please consider giving it a ⭐️ on [GitHub](https:/
 ## Stargazers ❤️
 <div align='left'>
 
-[![Stargazers repo roster for @rutikakengal/FoodFusion-Online-Food-Ordering-Web](https://reporoster.com/stars/dark/ruchikakengal/WebDevIn100_Days)](https://github.com/ruchikakengal/WebDevIn100_Days/stargazers)
+[![Stargazers repo roster for @ruchikakengal/WebDevIn100_Days](https://reporoster.com/stars/dark/ruchikakengal/WebDevIn100_Days)](https://github.com/ruchikakengal/WebDevIn100_Days/stargazers)
 
 
 </div>
 
 ## Forkers ❤️
 
-[![Forkers repo roster for @rutikakengal/FoodFusion-Online-Food-Ordering-Web](https://reporoster.com/forks/dark/ruchikakengal/WebDevIn100_Days)](https://github.com/ruchikakengal/WebDevIn100_Days/network/members)
+[![Forkers repo roster for @ruchikakengal/WebDevIn100_Days](https://reporoster.com/forks/dark/ruchikakengal/WebDevIn100_Days)](https://github.com/ruchikakengal/WebDevIn100_Days/network/members)
 
 
 <!--line-->
