@@ -70,7 +70,16 @@ function updateNavbar() {
 function fillTable() {
     const data = [
         ["Day 1", "To-Do List", " /public/TO_DO_LIST/todolist.html"],
-        ["Day 2", "Digital Clock", " /public/digital_clock/digitalclock.html"]
+        ["Day 2", "Digital Clock", " /public/digital_clock/digitalclock.html"],
+        ["Day 3", " ",],
+        ["Day 4", " ",],
+        ["Day 5", " ",],
+        ["Day 6", " ",],
+        ["Day 7", " ",],
+        ["Day 8", " ",],
+        ["Day 9", " ",],
+        ["Day 10", " ",],
+
     ];
 
 
