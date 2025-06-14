@@ -71,8 +71,8 @@ function fillTable() {
     const data = [
         ["Day 1", "To-Do List", " /public/TO_DO_LIST/todolist.html"],
         ["Day 2", "Digital Clock", " /public/digital_clock/digitalclock.html"],
-        ["Day 3", "",],
-        ["Day 4", "ASCII Art Generator (by Amaan Syed)", " /public/AsciiArtGenerator/index.html",],
+        ["Day 3", "ASCII Art Generator (by Amaan Syed)", " /public/AsciiArtGenerator/index.html",],
+        ["Day 4", " ",],
         ["Day 5", " ",],
         ["Day 6", " ",],
         ["Day 7", " ",],
