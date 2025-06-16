@@ -101,7 +101,7 @@ function updateNavbar() {
 function fillTable() {
     const data = [
         ["Day 1", "To-Do List", " /public/TO_DO_LIST/todolist.html"],
-        ["Day 2", "Analog & Digital Clock", " public/analog_&_digital_clock/analog_&_digital_clock.html"],
+        ["Day 2", "Digital Clock", " /public/digital_clock/digitalclock.html"],
         ["Day 3", "ASCII Art Generator (by Amaan Syed)", " /public/AsciiArtGenerator/index.html",],
         ["Day 4", " ",],
         ["Day 5", " ",],
