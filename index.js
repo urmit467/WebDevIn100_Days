@@ -101,8 +101,20 @@ function updateNavbar() {
 function fillTable() {
     const data = [
         ["Day 1", "To-Do List", " /public/TO_DO_LIST/todolist.html"],
-        ["Day 2", "Candy Crush"," public/candycrush/candy_crush.html"],
-
+        ["Day 2", "Digital Clock", " /public/digital_clock/digitalclock.html"],
+        ["Day 3", "ASCII Art Generator (by Amaan Syed)", " /public/AsciiArtGenerator/index.html",],
+        ["Day 4", "Candy Crush","public/candycrush/candy_crush.html",],
+        ["Day 5", " ",],
+        ["Day 6", " ",],
+        ["Day 7", " ",],
+        ["Day 8", " ",],
+        ["Day 9", " ",],
+        ["Day 10", " ",],
+        ["Day 11", " ",],
+        ["Day 12", " ",],
+        ["Day 13", " ",],
+        ["Day 14", " ",],
+        ["Day 100", " ",],
     ];
 
 
