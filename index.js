@@ -69,10 +69,10 @@ function updateNavbar() {
 // Populate the table with project data
 function fillTable() {
     const data = [
-        ["Day 1", "To-Do List", " /public/TO_DO_LIST/todolist.html"],
-        ["Day 2", "Digital Clock", " /public/digital_clock/digitalclock.html"],
-        ["Day 3", "ASCII Art Generator (by Amaan Syed)", " /public/AsciiArtGenerator/index.html",],
-        ["Day 4", " ",],
+        ["Day 1", "To-Do List", "./public/TO_DO_LIST/todolist.html"],
+        ["Day 2", "Digital Clock", "./public/digital_clock/digitalclock.html"],
+        ["Day 3", "ASCII Art Generator (by Amaan Syed)", "./public/AsciiArtGenerator/index.html",],
+        ["Day 4", "Physics Simulation (by Vishisht Dwivedi)", "./public/physics_simulation/index.html"],
         ["Day 5", " ",],
         ["Day 6", " ",],
         ["Day 7", " ",],
@@ -124,24 +124,24 @@ const body = document.body;
 
 // Check if the user has a saved theme preference
 if (localStorage.getItem('theme') === 'dark') {
-  body.classList.add('dark-theme');
-  themeToggle.textContent = '☀️';
+    body.classList.add('dark-theme');
+    themeToggle.textContent = '☀️';
 } else {
-  body.classList.add('light-theme');  // Explicitly set light theme
-  themeToggle.textContent = '🌙';
+    body.classList.add('light-theme');  // Explicitly set light theme
+    themeToggle.textContent = '🌙';
 }
 
 // Toggle theme on button click
 themeToggle.addEventListener('click', () => {
-  if (body.classList.contains('dark-theme')) {
-    body.classList.remove('dark-theme');
-    body.classList.add('light-theme');
-    themeToggle.textContent = '🌙';
-    localStorage.setItem('theme', 'light');
-  } else {
-    body.classList.remove('light-theme');
-    body.classList.add('dark-theme');
-    themeToggle.textContent = '☀️';
-    localStorage.setItem('theme', 'dark');
-  }
+    if (body.classList.contains('dark-theme')) {
+        body.classList.remove('dark-theme');
+        body.classList.add('light-theme');
+        themeToggle.textContent = '🌙';
+        localStorage.setItem('theme', 'light');
+    } else {
+        body.classList.remove('light-theme');
+        body.classList.add('dark-theme');
+        themeToggle.textContent = '☀️';
+        localStorage.setItem('theme', 'dark');
+    }
 });
