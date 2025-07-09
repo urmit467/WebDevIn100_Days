@@ -83,6 +83,7 @@ function fillTable() {
         ["Day 12", " ",],
         ["Day 13", " ",],
         ["Day 14", " ",],
+        ["Day 63", "WaterMedic (By Dee) ","https://dipmanmajumdar.github.io/WaterMedic/"],
         ["Day 100", " ",],
     ];
 
