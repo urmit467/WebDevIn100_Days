@@ -106,7 +106,7 @@ function fillTable() {
         ["Day 3", "ASCII Art Generator (by Amaan Syed)", "./public/AsciiArtGenerator/index.html",],
         ["Day 4", "Physics Simulation (by Vishisht Dwivedi)", "./public/physics_simulation/index.html"],
         ["Day 5","Quote Generator (by Sania Rajput)", "./public/QuoteGenerator/index.html"]
-        ["Day 6", " ",],
+        ["Day 6", "Candy Crush","public/candycrush/candy_crush.html"],
         ["Day 7", " ",],
         ["Day 8", " ",],
         ["Day 9", " ",],
