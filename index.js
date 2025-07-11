@@ -115,7 +115,7 @@ function fillTable() {
         ["Day 12", " ",],
         ["Day 13", "Coin Flip Heads/Tails (by Radhika Dodain) ","./public/Coin_Flip/index.html"],
         ["Day 14", " ",],
-        ["Day 64", "URL Shortner","https://antik-007.github.io/URL-Shortener/"],
+        ["Day 64", "URL Shortner","https://github.com/ANTIK-007/URL-Shortener"],
         ["Day 100", " ",],
 
     ];
