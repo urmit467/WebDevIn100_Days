@@ -107,7 +107,7 @@ function fillTable() {
         ["Day 4", "Password Strength Visualizer (by Adwitya)", " /public/password_visualizer/index.html"],
         ["Day 5", "Physics Simulation (by Vishisht Dwivedi)", " /public/physics_simulation/index.html"],
         ["Day 6", "Quote Generator (by Sania Rajput)", " /public/QuoteGenerator/index.html"],
-        ["Day 7", " ",],
+        ["Day 7", "Character Word Counter (by Anchal Chaturvedi)", " /public/CharacterWordCounter/index.html"],
         ["Day 8", " ",],
         ["Day 9", " ",],
         ["Day 10", " ",],
@@ -115,7 +115,9 @@ function fillTable() {
         ["Day 12", " ",],
         ["Day 13", "Coin Flip Heads/Tails (by Radhika Dodain) ","./public/Coin_Flip/index.html"],
         ["Day 14", " ",],
-          ["Day 72","Interactive Portfolio (by Priya Katariya)","/public/portfolio/index.html"],
+
+        ["Day 17", "E- waste Management Hub(by Abhirup Nandi)","https://e-waste-management-hub.netlify.app/"],
+["Day 72","Interactive Portfolio (by Priya Katariya)","/public/portfolio/index.html"],
         ["Day 100", " ",],
 
     ];
