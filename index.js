@@ -122,7 +122,7 @@ function fillTable() {
         ["Day 17", "E- waste Management Hub(by Abhirup Nandi)","https://e-waste-management-hub.netlify.app/"],
 ["Day 72","Interactive Portfolio (by Priya Katariya)","/public/portfolio/index.html"],
 
-        ["Day 100", " ",],
+        ["Day 100", "Candy Crush","public/candycrush/candy_crush.html"],
 
     ];
 
