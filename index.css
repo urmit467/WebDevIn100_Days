@@ -662,28 +662,6 @@ body {
   flex: 1; /* This will make sure the content area takes up the remaining space */
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .custom-footer {
   background-color: #f1f1f1;
   padding: 3rem 1rem;
@@ -817,3 +795,16 @@ body {
   height: 18px;
 }
 
+/* Responsive */
+@media (max-width: 768px) {
+  .footer-wrapper {
+    gap : 0;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .social-icons,
+  .nav-links {
+    justify-content: center;
+  }
+}
