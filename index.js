@@ -120,10 +120,8 @@ function fillTable() {
         ["Day 12", "Countdown Banner (by Priyanshi)", "https://countdown-banner.vercel.app/",], 
         ["Day 13", "Coin Flip Heads/Tails (by Radhika Dodain) ","./public/Coin_Flip/index.html"],
         ["Day 14", " ",],
-
+        ["Day 63", "WaterMedic (By Dee) ","https://github.com/dipmanmajumdar/WaterMedic"],
         ["Day 64", "URL Shortner","https://github.com/ANTIK-007/URL-Shortener"],
-
-
         ["Day 17", "E- waste Management Hub(by Abhirup Nandi)","https://e-waste-management-hub.netlify.app/"],
 ["Day 72","Interactive Portfolio (by Priya Katariya)","/public/portfolio/index.html"],
 
