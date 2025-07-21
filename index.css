@@ -684,18 +684,15 @@ body {
 
 .footer-section {
   flex: 1 1 300px;
-  
-    display: flex
-;
-    flex-direction: column;
-    justify-content: center;
-    /* align-content: center; */
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
 }
 
 .about-info{
-  margin-top: -35px;
+  margin-top: -48px;
 }
 
 .footer-title {
@@ -802,7 +799,7 @@ body {
     flex-direction: column;
     text-align: center;
   }
-  
+
   .footer-section{
     margin-top: -80px;
   }
@@ -811,4 +808,33 @@ body {
   .nav-links {
     justify-content: center;
   }
+}
+
+.scroll-to-top-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 48px;
+  height: 48px;
+  background-color: #1abc9c;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.scroll-to-top-btn:hover {
+  background-color: #16a085;
+  transform: translateY(-2px);
+}
+
+.arrow-up-icon {
+  width: 20px;
+  height: 20px;
 }
