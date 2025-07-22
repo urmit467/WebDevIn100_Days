@@ -100,7 +100,6 @@ function updateNavbar() {
 // Populate the table with project data
 function fillTable() {
     const data = [
-
         ["Day 1", "To-Do List", " /public/TO_DO_LIST/todolist.html"],
         ["Day 2", "Digital Clock", " /public/digital_clock/digitalclock.html"],
         ["Day 3", "ASCII Art Generator (by Amaan Syed)", "./public/AsciiArtGenerator/index.html",],
