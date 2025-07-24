@@ -109,21 +109,22 @@ function fillTable() {
         ["Day 7", "Character Word Counter", "/public/CharacterWordCounter/index.html"],
         ["Day 8", "Dice Roll Simulator", "/public/DICEROLLSIMULATOR/index.html"],
         ["Day 9", "Guess My Number", "./public/Guess_My_Number/index.html"],
-        ["Day 10", "WeatherApp", "./public/WeatherApp/index.html"],
-        ["Day 11", "Countdown Banner", "https://countdown-banner.vercel.app/"],
-        ["Day 12", "Coin Flip Heads/Tails", "./public/Coin_Flip/index.html"],
-        ["Day 13", "E-waste Management Hub", "https://e-waste-management-hub.netlify.app/"],
-        ["Day 14", "Currency Converter", "./Currency_Converter/index.html"],
-        ["Day 15", "Random User Generator", "./Random-User-Generator/index.html"],
-        ["Day 16", "Image Search App", "./Image_Search_App/index.html"],
-        ["Day 17", "WaterMedic", "https://github.com/dipmanmajumdar/WaterMedic"],
-        ["Day 18", "URL Shortener", "https://github.com/ANTIK-007/URL-Shortener"],
-        ["Day 19", "Interactive Portfolio", "/public/portfolio/index.html"],
-        ["Day 20", "Candy Crush", "public/candycrush/candy_crush.html"],
-        ["Day 21", "", ""],
+        ["Day 10", "Stopwatch", "/public/Stopwatch/index.html"],
+        ["Day 11", "WeatherApp", "./public/WeatherApp/index.html"],
+        ["Day 12", "Countdown Banner", "https://countdown-banner.vercel.app/"],
+        ["Day 13", "Coin Flip Heads/Tails", "./public/Coin_Flip/index.html"],
+        ["Day 14", "E-waste Management Hub", "https://e-waste-management-hub.netlify.app/"],
+        ["Day 15", "Currency Converter", "./Currency_Converter/index.html"],
+        ["Day 16", "Random User Generator", "./Random_User_Generator/index.html"],
+        ["Day 17", "Image Search App", "./Image_Search_App/index.html"],
+        ["Day 18", "WaterMedic", "https://github.com/dipmanmajumdar/WaterMedic"],
+        ["Day 19", "URL Shortener", "https://github.com/ANTIK-007/URL-Shortener"],
+        ["Day 20", "Interactive Portfolio", "/public/portfolio/index.html"],
+        ["Day 21", "Candy Crush", "public/candycrush/candy_crush.html"],
+        ["Day 22", "", ""],
     ];
 
-    
+
 
     const tbody = document.getElementById('tableBody');
     tbody.innerHTML = '';
