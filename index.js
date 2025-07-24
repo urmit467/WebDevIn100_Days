@@ -126,6 +126,7 @@ function fillTable() {
 
 
 
+
     const tbody = document.getElementById('tableBody');
     tbody.innerHTML = '';
 
