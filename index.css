@@ -320,11 +320,8 @@ body.dark-theme #title-heading {
   font-family: "Orbitron", sans-serif; /* Tech-inspired font */
   transition: transform 0.2s ease, text-shadow 0.2s ease;
 }
-.Making-glow-correct{
-  font-size: 70px;
-}
 /* Hover effect */
-body.dark-theme .Making-glow-correct:hover {
+body.dark-theme #title-heading:hover {
   transform: scale(1.05); /* Slightly enlarge the title */
   text-shadow: 0 0 30px #00f5ff; /* Glowing blue text shadow */
 }
