@@ -121,7 +121,7 @@ function fillTable() {
         ["Day 19", "URL Shortener", "https://github.com/ANTIK-007/URL-Shortener"], /* folder Not there */
         ["Day 20", "TicTacToe Game", "/public/Day-20_tictactoe/index.html"],
         ["Day 21", "Candy Crush", "public/Day-21_candycrush/candy_crush.html"],
-        ["Day 22", "", ""],
+        ["Day 22", "Palette Generator", "public/Day-22_Palette_generator/index.html"],
     ];
 
 
