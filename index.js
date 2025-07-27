@@ -122,8 +122,10 @@ function fillTable() {
         ["Day 20", "TicTacToe Game", "/public/Day-20_tictactoe/index.html"],
         ["Day 21", "Candy Crush", "public/Day-21_candycrush/candy_crush.html"],
         ["Day 22", "Palette Generator", "public/Day-22_Palette_generator/index.html"],
-        ["Day 23", "QR Code Generator", "/public/Day-23_QRCodeGenerator/index.html"],
-        ["Day 24", "Target Reflex Test", "public/Day-24_Target_Reflex_Test/index.html"],
+        ["Day 23", "QR Code Generator", "public/Day-23_QRCodeGenerator/index.html"],
+        ["Day 25"," Portfolio", " https://priyacodesarts.netlify.app/"],
+        ["Day 28", "Target Reflex Test", "public/Day-28_Target_Reflex_Test/index.html"],
+
     ];
 
 
